@@ -24,7 +24,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/x/bsonx"
 
-	"github.com/omec-project/MongoDBLibrary/logger"
+	"github.com/mbilal92/MongoDBLibrary/logger"
 )
 
 var Client *mongo.Client = nil
